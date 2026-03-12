@@ -6,6 +6,8 @@ Create a digital card deck that loads data from a JSON file and displays each ca
 
 Your deck could be anything: a Pokémon-style collection, a tarot deck, players of a sports team, or even a set of trading cards for your favorite foods, artists, or planets.
 
+![Card deck](cards_example.png)
+
 **Requirements**
 
 1. **Create a JSON File**
@@ -20,6 +22,7 @@ Your deck could be anything: a Pokémon-style collection, a tarot deck, players 
   ...
 ]
 ```
+NOTE: if you are including images, remember to create an `images` folder and add them there!
 
 2. **Fetch Data from JSON**
 - In the `script.js` file:
